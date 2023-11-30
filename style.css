@@ -80,3 +80,8 @@ body{
         transform: translate(0);
     }
 }
+@media (max-width:768px) {
+    .container{
+        width: 90vw;
+    }
+}
